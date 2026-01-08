@@ -7,7 +7,7 @@ repository = "https://thunderstore.io"
 [package]
 namespace = "CertiFried"
 name = "AtlantumEnrichment"
-versionNumber = "1.0.0"
+versionNumber = "1.0.1"
 description = "Dangerous Atlantum enrichment system with explosion risk, safety modules, and radiation zones. High risk, high reward!"
 websiteUrl = "https://github.com/xXDeath420Xx/TTMod-AtlantumEnrichment"
 containsNsfwContent = false
